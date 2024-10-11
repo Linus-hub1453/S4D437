@@ -1,0 +1,4 @@
+@EndUserText.label: 'UI Travel Service'
+define service Z20_UI_TRAVEL {
+  expose Z20_437_c_travel;
+}
