@@ -1,0 +1,8 @@
+@Metadata.layer: #CORE
+annotate view Z20_437_c_travel with
+{
+  @EndUserText.label: 'Buchungsgebühr'
+  BookingFee;
+  @EndUserText.label: 'Endpreis'
+  TotalPrice;
+}
